@@ -5,6 +5,12 @@ A complete, fully-playable command-line game based on the 1930 book "Consider th
 
 ## 🎮 How to Play
 
+### Play Online (Browser):
+**🌐 [Play Live Demo](https://ringmast4r.github.io/CTC-Game-LIVE-DEMO/)**
+
+No installation required! Play directly in your browser.
+
+### Play Locally (Command Line):
 Simply run:
 ```
 python game.py
